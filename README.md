@@ -30,9 +30,9 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
     
-    - `.forEach` will alter the given array.
+    - `.forEach` will looping through the original array.
 
-    - `.map` will make a new array.
+    - `.map` will make a new array, and it will not disturb the original array.
 
 
 2. What is the difference between a function and a method?
