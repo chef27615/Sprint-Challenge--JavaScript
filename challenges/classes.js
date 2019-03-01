@@ -1,5 +1,5 @@
 // 1. Copy and paste your prototype in here and refactor into class syntax.
-class CuboidMaker = {
+class CuboidMaker {
     constructor(attr){
     this.length = attr.length;
     this.width = attr.width;
